@@ -2,13 +2,6 @@ package day3;
 
 import java.util.List;
 
-class ListNode {
-      int val;
-      ListNode next;
-      ListNode() {}
-      ListNode(int val) { this.val = val; }
-      ListNode(int val, ListNode next) { this.val = val; this.next = next; }
-  }
 public class day3_mergeTwoSortedLists {
     public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
         //check if any of the lists are null
