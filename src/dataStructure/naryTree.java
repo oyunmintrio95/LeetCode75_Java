@@ -58,8 +58,7 @@ public class naryTree {
         }
         System.out.println();
     }
-}
-    // Driver Code
+
     public static void main(String[] args)
     {
         // input nodes
@@ -98,3 +97,6 @@ public class naryTree {
     }
 }
 // This code is contributed by karandeep1234
+
+
+    // Driver Code
