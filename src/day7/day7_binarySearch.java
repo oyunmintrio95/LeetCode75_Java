@@ -1,3 +1,5 @@
+package day7;
+
 public class day7_binarySearch {
     public int search(int[] nums, int target) {
         int start = 0;
@@ -15,7 +17,6 @@ public class day7_binarySearch {
                 start = mid+1;
             }
         }
-
         return -1;
 
     }
