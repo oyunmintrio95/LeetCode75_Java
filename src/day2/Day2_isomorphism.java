@@ -3,7 +3,7 @@ package day2;
 import java.util.HashMap;
 import java.util.Map;
 
-public class day2_isomorphism {
+public class Day2_isomorphism {
     public static boolean isIsomorphic(String s, String t) {
         if (s == null ||  t == null || s.length() != t.length()){
             return false;

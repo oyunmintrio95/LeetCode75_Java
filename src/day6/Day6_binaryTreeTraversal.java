@@ -1,13 +1,11 @@
 package day6;
 
-import com.sun.source.tree.Tree;
-
 import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.Queue;
 
-public class day6_binaryTreeTraversal {
+public class Day6_binaryTreeTraversal {
     static class TreeNode{
         int val;
         TreeNode left;

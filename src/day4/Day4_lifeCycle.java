@@ -2,7 +2,7 @@ package day4;
 
 import day3.ListNode;
 
-public class day4_lifeCycle {
+public class Day4_lifeCycle {
 
     public ListNode detectCycle(ListNode head) {
         // Initialize two pointers, slow and fast, to the head of the linked list.

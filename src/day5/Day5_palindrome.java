@@ -2,7 +2,7 @@ package day5;
 
 import java.util.HashSet;
 
-public class day5_palindrome {
+public class Day5_palindrome {
     public int longestPalindrome(String s) {
         //Decalre a variable that indicates length of Palindrome
         int length = 0;

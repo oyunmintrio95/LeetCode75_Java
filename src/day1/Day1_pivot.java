@@ -1,6 +1,6 @@
 package day1;
 
-public class day1_pivot {
+public class Day1_pivot {
     public int pivotIndex(int[] nums) {
         int pivot = 0;
         int totalSum = 0;

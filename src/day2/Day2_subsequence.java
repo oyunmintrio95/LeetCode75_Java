@@ -1,6 +1,6 @@
 package day2;
 
-public class day2_subsequence {
+public class Day2_subsequence {
     public static boolean isSubsequence(String s, String t) {
 
         int s_length = s.length();

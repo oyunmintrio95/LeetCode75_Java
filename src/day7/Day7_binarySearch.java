@@ -1,6 +1,6 @@
 package day7;
 
-public class day7_binarySearch {
+public class Day7_binarySearch {
     public int search(int[] nums, int target) {
         int start = 0;
         int end = nums.length - 1;

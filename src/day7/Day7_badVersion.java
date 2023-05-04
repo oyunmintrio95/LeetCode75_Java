@@ -2,7 +2,7 @@ package day7;
 
 /* The isBadVersion API is defined in the parent class VersionControl.
       boolean isBadVersion(int version); */
-public class day7_badVersion {
+public class Day7_badVersion {
     public int firstBadVersion(int n) {
         int low = 0;
         int high = n;

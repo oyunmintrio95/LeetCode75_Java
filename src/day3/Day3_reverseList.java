@@ -1,6 +1,6 @@
 package day3;
 
-public class day3_reverseList {
+public class Day3_reverseList {
     public ListNode reverseList(ListNode head) {
         ListNode prev = null;
         ListNode current = head;

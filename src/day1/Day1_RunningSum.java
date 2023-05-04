@@ -1,6 +1,6 @@
 package day1;
 
-public class day1_RunningSum {
+public class Day1_RunningSum {
     public int[] runningSum(int[] nums) {
         int sum = 0;
         int[] output = new int[nums.length];

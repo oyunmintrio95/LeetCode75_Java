@@ -1,8 +1,6 @@
 package day3;
 
-import java.util.List;
-
-public class day3_mergeTwoSortedLists {
+public class Day3_mergeTwoSortedLists {
     public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
         //check if any of the lists are null
         if(list1 == null){

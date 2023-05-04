@@ -1,7 +1,7 @@
 package day4;
 
 import day3.ListNode;
-public class day4_middleList {
+public class Day4_middleList {
     public ListNode middleNode(ListNode head) {
 
         // count how many index is in the head

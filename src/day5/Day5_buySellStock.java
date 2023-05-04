@@ -1,6 +1,6 @@
 package day5;
 
-public class day5_buySellStock {
+public class Day5_buySellStock {
     public static int maxProfit(int[] prices) {
         int currentGap = 0, profit = 0;
         if (prices.length <= 1)
