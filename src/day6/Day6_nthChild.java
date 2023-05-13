@@ -18,7 +18,7 @@ class Node {
         children = _children;
     }
 };
-public class day6_nthChild {
+public class Day6_nthChild {
     //Preorder traversal is a type of depth-first search(DFS)
     //Children are processed from left to right.
 
