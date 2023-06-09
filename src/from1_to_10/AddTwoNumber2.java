@@ -2,7 +2,7 @@ package from1_to_10;
 
 import day3.ListNode;
 
-public class AddTowNumber2 {
+public class AddTwoNumber2 {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         ListNode dummy = new ListNode(0);
         ListNode curr = dummy;
